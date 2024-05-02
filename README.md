@@ -15,7 +15,8 @@ This repository contains Python code for analyzing MS Dhoni's batting 🚁 perfo
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-![newplot (5)](https://github.com/GaneshPatilDS/MS_DHONI_ANALYSIS/assets/123234894/3b2f2dbf-ff57-47ea-99bc-6a502ea18485)
+![newplot (4)](https://github.com/GaneshPatilDS/MS_DHONI_ANALYSIS/assets/123234894/bc01301f-e9da-48f5-bb17-8c7949f84b97)
+
 
 #**Observation:**
 
