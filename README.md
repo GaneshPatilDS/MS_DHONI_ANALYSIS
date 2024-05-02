@@ -25,7 +25,8 @@ When it comes to the final over in ipl matches over the last five years, MS Dhon
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![newplot (4)](https://github.com/GaneshPatilDS/MS_DHONI_ANALYSIS/assets/123234894/3d65f9cd-3011-4606-94fd-5d4470eda030)
+![newplot (5)](https://github.com/GaneshPatilDS/MS_DHONI_ANALYSIS/assets/123234894/cb3a291c-b4b6-48c5-a217-a659a17d4ef5)
+
 
 
 #**Observation:**
